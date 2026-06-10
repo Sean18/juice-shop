@@ -29,7 +29,7 @@ jobs:
         polaris_assessment_types: "SCA,SAST"
         
         ### SCANNING OPTIONAL
-        polaris_application_name: "Justin's Application"
+        polaris_application_name: "Justin Application"
         polaris_project_name: "Sample App - Juice Shop"
         
         ### SCANNING OPTIONAL: Pull Request comments
